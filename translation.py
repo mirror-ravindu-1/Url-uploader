@@ -1,29 +1,31 @@
 class Translation(object):
 
-    START_TEXT = """Hello,
+    START_TEXT = """<b>Hi There ♥️
 
-This is a Telegram URL Upload Bot Created by the <b>team Closeup! </b>
-Our dream is to help achieve the ordinary telegram users to get benefit of the telegram'service
-Join our support group for any Doubts and complaints 
+I am a Tiny URL uploading bot Hosted in Heroku ☘️
 
-<b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
+You can download any file by giving me its Direct Download link 👀🥂
 
-/help for more details..
-
-Support Group : @cpbotssupport
+Edited and Hosted by Ravindu Deshan 🇱🇰</b>
 """
 
-    HELP_USER = """Hai I'am a URL Uploader bot..
-    
-1. Send url (Link | New Name with Extension).
-2. Send Custom Thumbnail (Optional).
-3. Select the button.
-   SVideo - Give File as video with Screenshots
-   DFile  - Give File with Screenshots
-   Video  - Give File as video without Screenshots
-   DFile  - Give File without Screenshots
+    HELP_USER = """Hi There ✨..I am a Simple URL Uploader bot 👀
 
-Support Group : @cpbotssupport
+1. Send the URL First 👀 (Link | New Name with Extension).
+
+2. Send Custom Thumbnail ☘️(Optional).
+
+3. Select the button.
+
+📌 SVideo - Give File as video with Screenshots
+
+📌 DFile - Give File with Screenshots
+
+📌 Video - Give File as video without Screenshots
+
+📌 DFile  - Give File without Screenshots
+
+Enjoy 🇱🇰
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
