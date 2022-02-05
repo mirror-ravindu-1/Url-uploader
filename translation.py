@@ -39,7 +39,7 @@ You can use /deletethumbnail to delete the thumbnail 🍂</b>
     
     DOWNLOAD_START = "<b>Downloading Your File to my Server ☘️..</b>"
     
-    UPLOAD_START = "<b>\n📌 Uploading to telegram...</b>"
+    UPLOAD_START = "<b>📌 Uploading to telegram...\n</b>"
     
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds."
 
