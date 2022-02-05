@@ -28,14 +28,12 @@ Edited and Hosted by @Ravindu_D 🇱🇰</b>
 Enjoy 🇱🇰
 """
 
-    FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
-    
-Send your custum thumbnail if required.
-You can use /deletethumbnail to delete the auto-generated thumbnail."""
-    
-    SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
-URL | newfilename | username | password"""
+    FORMAT_SELECTION = """<b>Select your Format 🌺
 
+You can Also send a Custom thumbnail to me.Just Send a Photo to me 📌
+
+You can use /deletethumbnail to delete the thumbnail 🍂</b>
+"""
 
     
     DOWNLOAD_START = "<b>Downloading Your File to my Server ☘️..</b>"
