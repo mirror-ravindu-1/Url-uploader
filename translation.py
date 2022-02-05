@@ -6,10 +6,10 @@ I am a Tiny URL uploading bot Hosted in Heroku ☘️
 
 You can download any file by giving me its Direct Download link 👀🥂
 
-Edited and Hosted by Ravindu Deshan 🇱🇰</b>
+Edited and Hosted by @Ravindu_D 🇱🇰</b>
 """
 
-    HELP_USER = """Hi There ✨..I am a Simple URL Uploader bot 👀
+    HELP_USER = """<b>Hi There ✨..I am a Simple URL Uploader bot 👀</b>
 
 1. Send the URL First 👀 (Link | New Name with Extension).
 
@@ -38,9 +38,9 @@ URL | newfilename | username | password"""
 
 
     
-    DOWNLOAD_START = "Trying to download your file..."
+    DOWNLOAD_START = "<b>Downloading Your File to my Server ☘️..</b>"
     
-    UPLOAD_START = "Uploading now.."
+    UPLOAD_START = "<b>📌 Uploading to telegram...</b>"
     
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds."
 
