@@ -35,6 +35,8 @@ You can Also send a Custom thumbnail to me.Just Send a Photo to me 📌
 You can use /deletethumbnail to delete the thumbnail 🍂</b>
 """
     
+    SET_CUSTOM_USERNAME_PASSWORD = """ \n🇱🇰 """
+    
     DOWNLOAD_START = "<b>Downloading Your File to my Server ☘️..</b>"
     
     UPLOAD_START = "<b>\n📌 Uploading to telegram...</b>"
